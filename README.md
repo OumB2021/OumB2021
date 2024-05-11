@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Video Streaming](https://github.com/OumB2021/Video-Streaming)
 
-- 🌱 I’m currently learning **MERN stack || React Native**
+- 🌱 I’m currently learning **MERN stack || React Native || Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/oumar-barry-ab8000239/](https://www.linkedin.com/in/oumar-barry-ab8000239/)
+- 👨‍💻 Checkout my profile [https://www.linkedin.com/in/oumar-barry-ab8000239/](https://www.linkedin.com/in/oumar-barry-ab8000239/)
 
-- 💬 Ask me about **C++, Java, Javascript, React, Node, DB**
+- 💬 Ask me about **C++, Java, Javascript, React, Node, DB, NextJS, Typescript**
 
 - 📫 How to reach me **baarryoumar@gmail.com**
 

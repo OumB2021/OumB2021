@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oumb2021&label=Profile%20views&color=0e75b6&style=flat" alt="oumb2021" /> </p>
 
-- 🔭 I’m currently working on [Video Streaming]((https://github.com/OumB2021/Video-Streaming))
+- 🔭 I’m currently working on [Video Streaming](https://github.com/OumB2021/Video-Streaming)
 
 - 🌱 I’m currently learning **MERN stack || React Native**
 
